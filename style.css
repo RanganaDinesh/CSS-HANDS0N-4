@@ -1,0 +1,199 @@
+h2{
+    background-image:linear-gradient(to right, red , green, yellow);
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+}
+nav{
+    background-color: cadetblue;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin: 10px 350px 18px 350px;
+    font-size: 10px;
+    
+    
+}
+li{
+    margin-left: 280px;
+    padding-left: 30px;
+    color: black;
+}
+.lorem2{
+    background-color: aqua;
+    border: 2px solid green;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    grid-column: 1;
+
+}
+.lorem3{
+    background-color: aqua;
+    border: 2px solid green;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    grid-column: 2;
+    margin: 0px 20px 0px 20px;
+}
+.lorem4{
+    background-color: aqua;
+    border: 2px solid green;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    grid-column: 3;
+}
+
+.container1{
+    display: grid;
+   
+   
+    
+}
+.lorem5{
+    background-color: aqua;
+    border: 2px solid green;
+    color: black;
+    border-radius: 5px;
+    margin-left: 490px;
+    margin-right: 490px;
+    padding: 10px;
+
+}
+.container{
+    border: 3px solid green;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+.sechead{
+    background-image: linear-gradient(to right , red , yellow ,red);
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+.backgroubd{
+   background-image: radial-gradient(to right,red,green,blue);
+    
+    display: grid;
+    
+}
+.box{
+    color: red;
+    text-decoration: underline;
+    background-color: yellow;
+    width: 150px;
+    border: 1px solid red;
+    font-size: 12px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 20px;
+    border-radius: 5px;
+    
+    grid-column: 1;
+}
+.box1{
+   
+    grid-column: 1;
+}
+.box2{
+    
+    grid-column: 2;
+}
+.box3{
+   
+    grid-column: 3;
+}
+.box4{
+   
+    grid-column: 4;
+}
+.head3{
+    background-color: red;
+    color: aliceblue;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 0px;
+    
+}
+.green{
+    background-color: rgb(71, 243, 71);
+    color: aliceblue;
+    text-align: center;
+    
+    margin: 5px 5px 5px 0px;
+    padding: 10px;
+    font-size: 20px;
+    grid-column: 1;
+}
+.sky{
+    background-color: rgb(52, 153, 254);
+    color: aliceblue;
+    
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+    grid-column: 2;
+    
+}
+.blue{
+    background-color: rgb(8, 8, 121);
+    color: aliceblue;
+  
+    margin: 5px 0px 5px 5px;
+    padding: 10px;
+    font-size: 20px;
+    grid-column: 3;
+    
+}
+.section3-grid{
+    display: grid;
+    
+   
+}
+.orange{
+    background-color: rgb(244, 177, 52);
+    color: aliceblue;
+    padding: 10px;
+    font-size: 20px;
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+.list3{
+    background-color: black;
+    color: aliceblue;
+    text-decoration: underline;
+    margin-left: 10px;
+    grid-row-start: 1;
+    grid-row-end:3 ;
+    grid-column: 4;
+    line-height: 30px;
+  
+}
+
+.last1{
+    display: flex;
+}
+.lasthead{
+    background-color: rgb(8, 145, 145);
+    color: black;
+    text-align: center;
+}
+.section1{
+    height: 250px;
+    background-image: radial-gradient(rgb(27, 46, 245),rgb(20, 243, 247),rgb(102, 247, 73));
+    margin-bottom: 20px;
+    border: 2px solid black;
+}
+.backgroubd{
+    padding-top: 80px;
+    padding-left: 260px;
+}
+.border{
+    border: 2px solid red;
+    
+    
+}
